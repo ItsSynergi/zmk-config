@@ -13,8 +13,8 @@
                 default_layer {
                         bindings = <
     &kp GRAV   &kp NUM_1  &kp NUM_2  &kp NUM_3  &kp NUM_4  &kp NUM_5  &kp LBKT       &kp RBKT   &kp NUM_6  &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp NUM_0  &kp MINUS
-    &kp TAB    &kp Q      &kp W      &kp E      &kp R      &kp T      &kp C_VOL_UP   &kp C_MUTE &kp Y      &kp U      &kp I      &kp O      &kp P      &kp BSLH
-    &kp ESC    &kp A      &kp S      &kp D      &kp F      &kp G                                &kp H      &kp J      &kp K      &kp L      &kp SCLN   &kp APOS
+    &kp TAB    &kp Q      &kp W      &kp E      &kp R      &kp T      &kp C_VOL_UP   &kp C_MUTE &kp Y      &kp U      &kp I      &kp O      &kp SCLN   &kp BSLH
+    &kp ESC    &kp A      &kp S      &kp D      &kp F      &kp G                                &kp H      &kp J      &kp K      &kp L      &kp P      &kp APOS
     &kp DEL    &kp Z      &kp X      &kp C      &kp V      &kp B      &kp C_VOL_DN   &kp C_PP   &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH   &kp EQUAL
     &none      &none      &kp LCTRL  &kp LALT   &kp LGUI                                                   &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT  &none
                                                            &tog DEF   &tog CON       &kp C_PREV &kp C_NEXT
